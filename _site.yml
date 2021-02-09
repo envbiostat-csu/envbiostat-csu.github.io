@@ -1,8 +1,5 @@
 name: "Environmental Biostatistics Working Group at CSU"
-<<<<<<< HEAD
 output_dir: "docs"
-=======
->>>>>>> 286332a3247ebd5b01e9c2bf8888effaa559ebdb
 navbar:
   title: "Env Biostat @ CSU"
   left:
@@ -15,7 +12,3 @@ navbar:
 output:
   html_document:
     css: style.css
-<<<<<<< HEAD
-    
-=======
->>>>>>> 286332a3247ebd5b01e9c2bf8888effaa559ebdb
