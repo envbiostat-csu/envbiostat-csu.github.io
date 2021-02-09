@@ -1,0 +1,13 @@
+name: "Environmental Biostatistics Working Group at CSU"
+navbar:
+  title: "Env Biostat @ CSU"
+  left:
+    - text: "About"
+      href: index.html
+    - text: "Schedule"
+      href: schedule.html
+    - text: "People"
+      href: people.html
+output:
+  html_document:
+    css: style.css
