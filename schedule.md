@@ -6,7 +6,7 @@ title: "Schedule"
 
 1/25 - Mini Talks
 
-2/22 - Daniel Mork, Research Presentation
+3/1 - Daniel Mork, Research Presentation
 
 4/5 - Nathan Ryder, Research Presentation
 
