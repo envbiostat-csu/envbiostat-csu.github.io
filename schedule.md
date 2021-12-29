@@ -2,11 +2,19 @@
 title: "Schedule"
 ---
 
+### Fall 2021
+
+10/1 - Mini Talks, What is everyone working on?
+
+11/5 - Ander Wilson, Paper Discussion, [Bayesian nonparametric modeling for causal inference](https://www.tandfonline.com/doi/abs/10.1198/jcgs.2010.08162)
+
+12/3 - Matt Koslovsky, Overview of mHealth
+
 ### Spring 2021
 
-1/25 - Mini Talks
+1/25 - Mini Talks, What is everyone working on?
 
-3/1 - Daniel Mork, Research Presentation
+3/1 - Daniel Mork, Research Presentation 
 
 4/5 - Nathan Ryder, Research Presentation
 
