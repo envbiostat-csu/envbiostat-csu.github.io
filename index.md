@@ -9,9 +9,9 @@ The Environmental Biostatistics Working Group seeks to build collaboration and c
 
 ### Meetings and how to join
 
-Meetings are held approximately once per month. All meetings during the 2020-2021 year are being held via Zoom.
+Meetings are held approximately once per month. 
 
-To join, please email [Ander Wilson](mailto:ander.wilson@colostate.edu). 
+To join, please subscribe to our [email listserv](https://lists.colostate.edu/cgi-bin/mailman/listinfo/envr_biost) or email [Ander Wilson](mailto:ander.wilson@colostate.edu). 
 
-Graduate students interested in learning more about these research areas and current work being conducted in the Department are partculaly encouraged to attend.
+Graduate students interested in learning more about these research areas and current work being conducted in the Department are particularly encouraged to attend.
 
