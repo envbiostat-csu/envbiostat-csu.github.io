@@ -2,6 +2,15 @@
 title: "Schedule"
 ---
 
+### Spring 2022
+
+2/7 - Mini Talks, What is everyone working on?  
+
+2/21 - Nathan Ryder and Danielle Demateis, Paper Discussion
+
+3/7 - Andreas Neophytou, CSU Environmental and Radiological Health Sciences, Guest Talk
+
+
 ### Fall 2021
 
 10/1 - Mini Talks, What is everyone working on?
