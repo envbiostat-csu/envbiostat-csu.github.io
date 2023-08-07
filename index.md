@@ -3,7 +3,7 @@ title: "About"
 ---
 
 
-The Environmental Biostatistics Working Group seeks to build collaboration and community among faculty and students working in biostatistics with application in environmental and public health. The group consists of faculty and students actively working and collaborating on research in these areas. Meetings primarily consist of research presentations and paper discussions. The group is organized by [Ander Wilson](http://anderwilson.github.io) and [Joshua Keller](http://joshuapkeller.com/).
+The Environmental Biostatistics Working Group seeks to build collaboration and community among faculty and students working in biostatistics with application in environmental and public health. The group consists of faculty and students actively working and collaborating on research in these areas. Meetings primarily consist of research presentations and paper discussions. The group is organized by [Ander Wilson](http://anderwilson.github.io) and [Kayleigh Keller](https://www.kellerbiostat.com/).
 
 
 

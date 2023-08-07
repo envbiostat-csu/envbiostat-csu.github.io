@@ -2,6 +2,19 @@
 title: "Schedule"
 ---
 
+
+
+### Fall 2023
+
+9/6 - Seongwon Im, Research Presentation
+
+10/4 - Maddie Rainey, Research Presentation
+
+11/1 - TBD
+
+12/6 - TBD
+
+
 ### Spring 2022
 
 2/7 - Mini Talks, What is everyone working on?  
@@ -9,6 +22,8 @@ title: "Schedule"
 2/21 - Nathan Ryder and Danielle Demateis, Paper Discussion
 
 3/7 - Andreas Neophytou, CSU Environmental and Radiological Health Sciences, Guest Talk
+
+5/2 - Nathan Hemenway, Undergraduate Research Presentation 
 
 
 ### Fall 2021
