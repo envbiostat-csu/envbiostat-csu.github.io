@@ -10,7 +10,7 @@ title: "Schedule"
 
 10/4 - Maddie Rainey, Research Presentation
 
-11/1 - TBD
+11/1 - Lauren Hoskovec, Research Scientists at Natural Resource Ecology Laboratory at CSU
 
 12/6 - TBD
 
