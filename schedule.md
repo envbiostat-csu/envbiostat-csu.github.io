@@ -12,7 +12,7 @@ title: "Schedule"
 
 11/1 - Lauren Hoskovec, Research Scientists at Natural Resource Ecology Laboratory at CSU
 
-12/6 - TBD
+12/6 - Kevin Korsurat, Research Presentation
 
 
 ### Spring 2022
