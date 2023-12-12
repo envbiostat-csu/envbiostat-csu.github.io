@@ -4,13 +4,24 @@ title: "Schedule"
 
 
 
+### Spring 2024
+
+2/7 - Danielle Demateis, Research Presentation
+
+3/6 - TBD
+
+4/3 - TBD
+
+5/1 - TBD
+
+
 ### Fall 2023
 
 9/6 - Seongwon Im, Research Presentation
 
 10/4 - Maddie Rainey, Research Presentation
 
-11/1 - Lauren Hoskovec, Research Scientists at Natural Resource Ecology Laboratory at CSU
+11/1 - Lauren Hoskovec, Research Scientists at Natural Resource Ecology Laboratory at CSU, Discussion of careers and experiances in environmental statistics
 
 12/6 - Kevin Korsurat, Research Presentation
 
